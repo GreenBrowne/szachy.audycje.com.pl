@@ -18,11 +18,11 @@ Popiera to i aktywnie promuje Judit Polgar
 ![Polgar](/uploads/Judit_polgar_03.08.2008.jpg)
 – najwybitniejsza szachistka w historii, arcymistrzyni, która pokonała wielu mistrzów świata. Dziś ceniona edukatorka, inspiruje dzieci i dorosłych na całym świecie, pokazując, że szachy to klucz do rozwoju umysłu i świetnej zabawy.
 
-\n\n
-Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
+
+###  Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
 Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
 
-Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
+### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 ![Mistrzyni](/uploads/turka_puzle_best.png)
 
 
@@ -33,11 +33,10 @@ Warto dodać, że jej koleżanki zajęły kolejne 3 miejsca z wynikami niesamowi
 
 Chłopaki, czas się brać do treningu...
 
-\n\n
 
-<i>"Każda, nawet najdłuższa podróż zaczyna się od jednego małego kroku"</i>
+*kursywa*"Każda, nawet najdłuższa podróż zaczyna się od jednego małego kroku"*kursywa*
 
-\n\n
+
 
 ### Każde dziecko zapisane na nasze zajęcia powinno mieć swoje konto na Lichess.org i trenować tam, także poza zajęciami!
 
