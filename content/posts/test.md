@@ -15,7 +15,7 @@ Popiera to i aktywnie promuje Judit Polgar
 ![Polgar](/uploads/Judit_polgar_03.08.2008.jpg)
 – najwybitniejsza szachistka w historii, arcymistrzyni, która pokonała wielu mistrzów świata. Dziś ceniona edukatorka, inspiruje dzieci i dorosłych na całym świecie, pokazując, że szachy to klucz do rozwoju umysłu i świetnej zabawy.
 
-<br>
+\n\n
 Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
 Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
 
@@ -30,24 +30,24 @@ Warto dodać, że jej koleżanki zajęły kolejne 3 miejsca z wynikami niesamowi
 
 Chłopaki, czas się brać do treningu...
 
-<br>
+\n\n
 
 <i>"Każda, nawet najdłuższa podróż zaczyna się od jednego małego kroku"</i>
 
-<br>
+\n\n
 
 ### Każde dziecko zapisane na nasze zajęcia powinno mieć swoje konto na Lichess.org i trenować tam, także poza zajęciami!
 
 Oto instrukcja jak stworzyć konto na platformie szachowej lichess. (nie dotyczy tych dzieci, które już wcześniej założyły i używają)
 
-<br>
+\n\n
 
 1. Klikamy w link https://lichess.org/signup
 2. Tworzymy login dziecka wg schematu: 
 
 
 
-<br>
+\n\n
 
 Od teraz dziecko może brać udział w grach oraz turniejach online na platformie lichess.org. Dodatkowo może grać z kolegami i trenować samodzielnie, co tylko przyspieszy rozwój i zwiększy efekty nauczania.
 
