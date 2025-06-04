@@ -4,13 +4,16 @@ date: 2024-08-30T09:38:32+02:00
 ---
 ### W związku z kończącym się rokiem szkolnym 
 Przyglądamy się postępom grupy dla początkujących. 
+\n\n
 Jednym z małych sukcesów jest systematyczny udział dziewczynek w zajęciach.
+\n\n
 Jednak nasza radość nie wynika z tego jedynie, że uczęsczają na zajęcia, ale że umieją przegonić i pokonać chłopców.
 
 
-Jednym z najbardziej niedocenianych, ale potężnych, elementów gry na poziomie początkującycm, jest poznanie i szybkie wyszukanie pół szachowych:
+Jednym z najbardziej niedocenianych, ale potężnych elementów gry na poziomie początkującycm, jest poznanie i szybkie wyszukanie pół szachowych:
 https://lichess.org/training/coordinate
 
+\n\n
 Popiera to i aktywnie promuje Judit Polgar 
 ![Polgar](/uploads/Judit_polgar_03.08.2008.jpg)
 – najwybitniejsza szachistka w historii, arcymistrzyni, która pokonała wielu mistrzów świata. Dziś ceniona edukatorka, inspiruje dzieci i dorosłych na całym świecie, pokazując, że szachy to klucz do rozwoju umysłu i świetnej zabawy.
