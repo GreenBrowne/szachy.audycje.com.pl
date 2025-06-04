@@ -19,10 +19,8 @@ Popiera to i aktywnie promuje Judit Polgar
 
 ###  Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
 Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
-
-### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 ![Mistrzyni](/uploads/turka_puzle_best.png)
-
+### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 
 Tak trzymaj, to może, pewne dnia będziesz, jak legendarna za życia....Judit Polgar.
 
