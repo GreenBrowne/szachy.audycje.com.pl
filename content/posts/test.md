@@ -10,7 +10,7 @@ Jednym z najbardziej niedocenianych, ale potężnych, elementów gry na poziomie
 https://lichess.org/training/coordinate
 
 Popiera to i aktywnie promoje Judit Polgar 
-![Mistrzyni](/uploads/Judit_polgar_03.08.2008.jpg)
+![Polgar](/uploads/Judit_polgar_03.08.2008.jpg)
 – najwybitniejsza szachistka w historii, arcymistrzyni, która pokonała wielu mistrzów świata. Dziś ceniona edukatorka, inspiruje dzieci i dorosłych na całym świecie, pokazując, że szachy to klucz do rozwoju umysłu i świetnej zabawy.
 
 Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
