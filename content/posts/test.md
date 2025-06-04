@@ -21,7 +21,7 @@ Gratulacje dla naszej Mistrzyni od trenera i całej Fundacji "Więcej Mądrości
 
 
 
-//{{< carousel items="1" height="440" unit="px" duration="7000" >}}//
+/*{{< carousel items="1" height="440" unit="px" duration="7000" >}}*/
 
 <br>
 
