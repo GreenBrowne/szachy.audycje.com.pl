@@ -2,14 +2,24 @@
 title: "Zajęcia szachowe"
 date: 2024-08-30T09:38:32+02:00
 ---
-### W związku z nowym rokiem szkolnym 
-Uruchamiamy kolejne grupy dla początkujących. Placówki edukacyjne zaintersowane współpracą ofaz rodziców dzieci zapraszamy do kontaktu na: 
-
+### W związku z kończącym się rokiem szkolnym 
+Przyglądamy się postępom grupy dla początkujących. 
 #### kontakt@audycje.com.pl.
 
 <br>
 
-{{< carousel items="1" height="440" unit="px" duration="7000" >}}
+Drugi turniej treningowy WYŁĄCZNIE dla średniozaawansowanych, czyli tych mających kategorie szachowe lub ranking nie więcej niż 1600 ELO, 
+zaczyna w niedzielę, **23.02.2025 o 16:00**
+### aby wejść na turniej kliknij w ten link:
+albo skopiuj go ręcznie: https://lichess.org/tournament/ju6zqIg4
+### hasło do turnieju: mistrz
+
+Tutaj mały żart szachowy dla rozluźnienia przed turniejem:
+![Mistrzyni](/uploads/turka_puzle_best.png)
+
+
+
+//{{< carousel items="1" height="440" unit="px" duration="7000" >}}
 
 <br>
 
