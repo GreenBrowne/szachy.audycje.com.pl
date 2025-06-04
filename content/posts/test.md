@@ -24,7 +24,7 @@ Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich któ
 
 Tak trzymaj, to może, pewne dnia będziesz, jak legendarna za życia....Judit Polgar.
 
-Warto dodać, że jej koleżanki zajęły kolejne 3 miejsca z wynikami niesamowicie bliskimi, bo kolejno 16,15,14!!!
+### Warto dodać, że jej koleżanki zajęły kolejne 3 miejsca z wynikami niesamowicie bliskimi, bo kolejno 16,15,14!!!
 
 Chłopaki, czas się brać do treningu...
 
