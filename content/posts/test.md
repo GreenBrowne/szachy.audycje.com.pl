@@ -45,14 +45,14 @@ Chłopaki, czas się brać do treningu...
 
 Oto instrukcja jak stworzyć konto na platformie szachowej lichess. (nie dotyczy tych dzieci, które już wcześniej założyły i używają)
 
-\n\n
+
 
 1. Klikamy w link https://lichess.org/signup
 2. Tworzymy login dziecka wg schematu: 
 
 
 
-\n\n
+
 
 Od teraz dziecko może brać udział w grach oraz turniejach online na platformie lichess.org. Dodatkowo może grać z kolegami i trenować samodzielnie, co tylko przyspieszy rozwój i zwiększy efekty nauczania.
 
