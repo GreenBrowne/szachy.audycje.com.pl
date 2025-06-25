@@ -2,22 +2,22 @@
 title: "Ostatnie zajęcia szachowe"
 date: 2025-06-24
 ---
-### W związku z szybko zbliżającym się rokiem szkolnym mielismy już niestety ostatnie zajęcią przed wakacjami
+### W związku z szybko zbliżającymi się wakacjami mielismy już niestety ostatnie zajęcią przed wakacjami
 Popatrzmy się na wyniki grupy dla początkujących. 
 
 Pozytywnie zadziwia systematyczny udział dziewczynek na zajęciach.
 
-Jednak nasze zdziwienie nie wynika z tego jedynie, że uczęsczają na zajęcia, ale jak świetne wyniki umieją osiągać 
+Jednak nasze zdziwienie nie wynika z tego jedynie, że uczęszczają na zajęcia, ale jak świetne wyniki umieją osiągać 
 przeganiając znaczącą większość chłopców.
 ![grupa](/uploads/IMG_20250624_151113293.jpg)
-Na mini turnieju ze znajdowania nalepszych ruchów skoczka na czas, dziewczynki osiegnęły imponujące wyniki.
+Na mini turnieju ze znajdowania nalepszych ruchów skoczka na czas, dzieci osiegnęły imponujące wyniki.
 
-###  Tutaj zwyciężczyni naszych zawodów Emilka z imponującym wynikiem 84.000. Dodajmy, że pokonałoby ją w tym tylko 
-dwóch chłopców z innych grup i to trrenujących dużo dłużej o mających już wygrane turnieje i wysokie IV kategorie szachowe!
+###  Tutaj zwyciężczyni naszych zawodów Emilka z imponującym wynikiem 84.000. Dodajmy, że pokonałoby ją w tym tylko dwóch 
+### chłopców z innych grup i to trenujących dużo dłużej o mających już wygrane turnieje i wysokie IV kategorie szachowe!
 
 Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
-![Mistrzyni](/uploads/turka_puzle_best.png)
-### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
+
+### Gratulacje dla naszej skoczkowej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 
 
 ### Warto dodać, że na szczególną pochwałę zasłużył najmłodszy Wiktor, ze wspaniałym wynikiem 66.100 zajmując drugie miejsce!
