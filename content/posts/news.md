@@ -32,35 +32,14 @@ Pobijając znacząco najlepszy wynik z zajęć i ustanawiając nowy rekord w tej
 
 
 Chłopaki, napjwyższy czas się brać do poważnego treningu...
----
-title: "Zajęcia szachowe"
-date: 2025-06-03
----
-### W związku z kończącym się rokiem szkolnym 
-Przyglądamy się postępom grupy dla początkujących. 
 
-Jednym z małych sukcesów jest systematyczny udział dziewczynek w zajęciach.
-
-Jednak nasza radość nie wynika z tego jedynie, że uczęsczają na zajęcia, ale że umieją przegonić i pokonać chłopców.
-
-Jednym z najbardziej niedocenianych, ale potężnych elementów gry na poziomie początkującycm, jest poznanie i szybkie wyszukanie pół szachowych:
-https://lichess.org/training/coordinate
-
-Popiera to i aktywnie promuje Judit Polgar 
-![Polgar](/uploads/Judit_polgar_03.08.2008.jpg)
-– najwybitniejsza szachistka w historii, arcymistrzyni, która pokonała wielu mistrzów świata. Dziś ceniona edukatorka, inspiruje dzieci i dorosłych na całym świecie, pokazując, że szachy to klucz do rozwoju umysłu i świetnej zabawy.
-
-
-###  Tutaj zwyciężczyni naszych zawodów z imponującym wynikiem 17 odszukanych pól w 30 sekund!!!
-Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
-![Mistrzyni](/uploads/turka_puzle_best.png)
-### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
-
-Tak trzymaj, to może, pewne dnia będziesz, jak legendarna za życia....Judit Polgar.
-
-### Warto dodać, że jej koleżanki zajęły kolejne 3 miejsca z wynikami niesamowicie bliskimi, bo kolejno 16,15,14!!!
-
-Chłopaki, czas się brać do treningu...
+### UWAGA! Nasza Fundacja planuje szachowe imprezy plenerowe podczas wakacji!
+Przewidujemy dużo zabawy, zgodnie z naszą stretegią wykorzystania NAJNOWSZEJ naukowej wiedzy nt najlepszych technik 
+nauczania dzieci i młodziezy, jaka znacząco odbiega od więszości typowo szkolnych, czytaj: nudnych i skandalicznie 
+nieskutecznych technik przekazywania wiedzy.
+Szczegóły będą publikowane na tej stronie:
+https://szachy.audycje.com.pl/posts/wakacje/
+### Prosimy zaglądać tam od początku tygodnia po zakończeniu roku szkolnego, czyli od 30.06.2025.
 
 *Każda, nawet najdłuższa podróż zaczyna się od jednego małego kroku"*
 
