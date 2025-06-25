@@ -1,4 +1,38 @@
 ---
+title: "Ostatnie zajęcia szachowe"
+date: 2025-06-24
+---
+### W związku z szybko zbliżającym się rokiem szkolnym mielismy już niestety ostatnie zajęcią przed wakacjami
+Popatrzmy się na wyniki grupy dla początkujących. 
+
+Pozytywnie zadziwia systematyczny udział dziewczynek na zajęciach.
+
+Jednak nasze zdziwienie nie wynika z tego jedynie, że uczęsczają na zajęcia, ale jak świetne wyniki umieją osiągać 
+przeganiając znaczącą większość chłopców.
+![grupa](/uploads/IMG_20250624_151113293.jpg)
+Na mini turnieju ze znajdowania nalepszych ruchów skoczka na czas, dziewczynki osiegnęły imponujące wyniki.
+
+###  Tutaj zwyciężczyni naszych zawodów Emilka z imponującym wynikiem 84.000. Dodajmy, że pokonałoby ją w tym tylko 
+dwóch chłopców z innych grup i to trrenujących dużo dłużej o mających już wygrane turnieje i wysokie IV kategorie szachowe!
+
+Pobiła tym samym dziesiątki innych dzieci, w innych grupach, w tym takich które grają od lat i mają kategorie szachowe!
+![Mistrzyni](/uploads/turka_puzle_best.png)
+### Gratulacje dla naszej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
+
+
+### Warto dodać, że na szczególną pochwałę zasłużył najmłodszy Wiktor, ze wspaniałym wynikiem 66.100 zajmując drugie miejsce!
+![Wiktor](/uploads/IMG_20250624_151123499_BURST001.jpg)
+
+Jednak to nie wszystkie szokujące nowiny!!!
+Dwie dziweczynki zostały po skończynych zajęciach i ... ambitnie próbowały pobić swoje wyniki!
+Obydwu to się wspaniale udało!
+
+Tosia jednak przeszła wszystkie moje oczekiwania, bo osiągnęła wynik 107.000 niemal podwójnie bijąc swój wynik z zajęć!!!
+Pobijając znacząco najlepszy wynik z zajęć i ustanawiając nowy rekord w tej grupie! Brawo!!!
+
+
+Chłopaki, napjwyższy czas się brać do poważnego treningu...
+---
 title: "Zajęcia szachowe"
 date: 2025-06-03
 ---
