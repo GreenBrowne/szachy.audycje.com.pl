@@ -1,5 +1,5 @@
 ---
-title: "Ostatnie zajęcia szachowe"
+title: "Ostatnie zajęcia szachowe roku szkolnego 2024/2025"
 date: 2025-06-24
 ---
 ### W związku z szybko zbliżającymi się wakacjami mielismy już niestety ostatnie zajęcią przed wakacjami
