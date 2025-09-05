@@ -2,7 +2,10 @@
 {{ .Scratch.Set "unit" (.Get "unit") }}
 {{ .Scratch.Set "ordinal" .Ordinal }}
 {{ .Scratch.Set "items" (.Get "items") }}
-<!--<div id="carousel{{ .Ordinal }}" class="carousel" duration="{{ .Get `duration` }}">-->
+<!--<div id="carousel{{ .Ordinal }}" class="carousel" duration="{{ .Get `duration` }}">
+zmieniony kod!
+jeśli "duration=0 wtedy NIe będzie automatycznego przewijania karuzeli
+-->
 <div id="carousel{{ .Ordinal }}" class="carousel" {{ with .Get "duration" }}{{ if gt . 0 }}duration="{{ . }}"{{ end }}{{ end }}>
 
 
