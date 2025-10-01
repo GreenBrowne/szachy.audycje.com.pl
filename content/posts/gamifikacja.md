@@ -4,9 +4,9 @@ date: 2025-09-03
 ---
 ### Zachęcam do zapoznania się z korzyściami gamifikacji szachów, czyli najbardziej efektywnej, naturalnej oraz przyjaznej dzieciom metody nauczania
 
-![gamifikacja](/uploads/chess_future.webp)
+Prawidłowe opracowanie tego tematu do poczytania: https://blog.crp.wroclaw.pl/gamifikacja-w-edukacji-jak-uczyc-sie-przez-zabawe/
 
-Prawidłowe opracowanie tego tematu: https://blog.crp.wroclaw.pl/gamifikacja-w-edukacji-jak-uczyc-sie-przez-zabawe/
+![gamifikacja](/uploads/chess_future.webp)
 
 # Gamifikacja w edukacji – skuteczność i korzyści dla dzieci
 
