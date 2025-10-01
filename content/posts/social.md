@@ -5,7 +5,7 @@ date: 2025-09-03
 ### Integracja szachów w terapię może znacząco wspierać leczenie ADHD, wspomagać rozwój społeczno-emocjonalny dzieci z ASD oraz działać prewencyjnie i wspomagająco u osób z zaburzeniami poznawczymi takimi jak demencja.
 
 
-![terapia](/uploads/chess_therapy.png)
+![terapia](/uploads/chess_social.png)
 
 
 <br>
