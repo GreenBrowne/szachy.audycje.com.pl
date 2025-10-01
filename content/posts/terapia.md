@@ -2,11 +2,10 @@
 title: "Szachy jako terapia i leczenie zaburzeń"
 date: 2025-09-03
 ---
-### ntegracja szachów w terapię może znacząco wspierać leczenie ADHD, wspomagać rozwój społeczno-emocjonalny dzieci z ASD oraz działać prewencyjnie i wspomagająco u osób z zaburzeniami poznawczymi takimi jak demencja.
+### Integracja szachów w terapię może znacząco wspierać leczenie ADHD, wspomagać rozwój społeczno-emocjonalny dzieci z ASD oraz działać prewencyjnie i wspomagająco u osób z zaburzeniami poznawczymi takimi jak demencja.
 
-#### kontakt@audycje.com.pl.
 
-![ulotka-a3](/uploads/chess_therapy.png)
+![terapia](/uploads/chess_therapy.png)
 
 
 <br>
