@@ -6,6 +6,7 @@ date: 2025-09-03
 
 ![gamifikacja](/uploads/chess_future.webp)
 
+Prawidłowe opracowanie tego tematu: https://blog.crp.wroclaw.pl/gamifikacja-w-edukacji-jak-uczyc-sie-przez-zabawe/
 
 # Gamifikacja w edukacji – skuteczność i korzyści dla dzieci
 
