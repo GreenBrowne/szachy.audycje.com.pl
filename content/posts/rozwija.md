@@ -8,7 +8,7 @@ date: 2025-09-03
 
 ### Szachy to także wszechstronny rozwój dziecka
 
-![ulotka-a3](/uploads/chess_zalety3.png)
+![ulotka-a3](/uploads/chess_zalety4.png)
 
 <br>
 # Metody nauki szachów oraz ich skuteczność i korzyści dla rozwoju dzieci
