@@ -39,30 +39,33 @@
   <br/> 
   <link rel="stylesheet" href="css/form.css" >
   
-<form method="get">
-  <div class="mb-3">Tytuł wiadomości: </label>
-  <input type="subject" class="form-control" id="subject" placeholder="Tutaj wprowadź tytuł wiadomości">
-</div>
-<div class="mb-3">
-  <label for="message" class="form-label">Treść wiadomości</label>
-  <textarea class="form-control" id="message" rows="6" placeholder="Tutaj wprowadź treść wiadomości..."></textarea>
-</div>
+  <form id="contactForm">
+    <div class="mb-3">
+      Tytuł wiadomości: 
+      <input type="text" class="form-control" id="subject" placeholder="Tutaj wprowadź tytuł wiadomości">
+    </div>
+    <div class="mb-3">
+      <label for="message" class="form-label">Treść wiadomości</label>
+      <textarea class="form-control" id="message" rows="6" placeholder="Tutaj wprowadź treść wiadomości..."></textarea>
+    </div>
+    <button type="submit" class="btn btn-dark">Wyślij</button>
+  </form>
 
-  <button  type="submit" onclick="sendMail();" class="btn btn-dark">Wyślij </button>
-  
-  
-</form>
+  <script>
+    document.getElementById('contactForm').addEventListener('submit', function(e) {
+      e.preventDefault(); // zatrzymuje domyślne wysłanie formularza
+      var subject = encodeURIComponent(document.getElementById('subject').value);
+      var message = encodeURIComponent(document.getElementById('message').value);
 
-<script>
-    function sendMail() {
-        var subject = encodeURIComponent($('#subject').val());
-        var message = encodeURIComponent($('#message').val());
+      if(!subject || !message){
+        alert('Proszę wypełnić oba pola!');
+        return;
+      }
 
-        var mailtoLink = 'mailto:morewisdomfund@gmail.com?subject=' + subject + '&body=' + message;
-
-        window.location.href = mailtoLink;
-    };
-</script>
+      var mailtoLink = 'mailto:morewisdomfund@gmail.com?subject=' + subject + '&body=' + message;
+      window.location.href = mailtoLink;
+    });
+  </script>
 
   {{- end }}
 
@@ -82,4 +85,3 @@
 </article>
 
 {{- end }}{{/* end main */}}
-
