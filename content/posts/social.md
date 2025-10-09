@@ -46,7 +46,7 @@ Program realizuje konkretne cele **Social, Personal and Health Education (SPHE)*
 - Przeciwdziałanie bullyingowi[1]
 
 ###  "Myself & the Wider World" (Ja i szerszy świat)
-- Rozwijanie obywatelstwa
+- Rozwijanie postaw obywatelskich
 - Praca zespołowa i współpraca
 - Budowanie poczucia przynależności do społeczności[1]
 
