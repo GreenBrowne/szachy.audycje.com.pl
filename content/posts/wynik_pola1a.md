@@ -20,12 +20,12 @@ Dodajmy, że założony wynik do pobicia to było 5 i cała grupa go osiągnęł
 
 ### Gratulacje dla naszej szacho-polowej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 
-### Warto dodać, że na szczególną pochwałę zasłużył Wiktor, któy pokonał swoją obawę, przed tym ćwiczeniem i zakończył ze wspaniałym wynikiem 7 zajmując drugie miejsce!
+### Warto dodać, że na szczególną pochwałę zasłużył Wiktor, który pokonał swoją obawę, przed tym ćwiczeniem i zakończył ze wspaniałym wynikiem 7 zajmując drugie miejsce!
 ![Wiktor](/uploads/Wiktor.png)
 
 Kolejni koledzy byli tuż za nim z wynikiem 6, więc dalsza rywallizacja zapewne będzie ostra w tej konkurencji...
 
-Ponieważ PRAWDZIWE zwycięstwo to wtedy, gdy dziecko pokonuje swoje lęki i słabości oraz poznaje, że może zrobić dzisiaj coś, czego by nie mogło ani nie umiało zrobić wczoraj! 
+### Jednak PRAWDZIWE zwycięstwo jest wtedy, gdy dziecko pokonuje swoje lęki i słabości oraz poznaje, że może zrobić dzisiaj coś, czego by nie mogło ani nie umiało zrobić wczoraj! 
 Dlatego wszystkie dzieci są tutaj zwycięzcami!
 ![Fear](/uploads/win_fear.png)
 
@@ -37,9 +37,12 @@ Dlatego też daję Państu link do tego ćwiczenia i zachęcam do dawania dzieci
 ### A dlaczego warto być lepszym w takiej zabawie?
 
 Z trzech powodów:
-* 1 to ćwiczenie realnie poprawia umiejętności koordynacji wzrokowo-ruchowej i mocno aktywuje mózg oraz ośrodki zapamiętywania
-* 2 naprawdę poprawia umiejętności, niezbędne w lepszym graniu w szachy, szczególnie w tzw.kalkulacji, bo na wyższych poziomach szachiści pokonują limity 30 a czasem i 40 pól, jak są mistrzami
-* 3 jest to częścią zadań do zaliczenia by zdobyć odznaki i awansować na wyższe poziomy, a pierwsza szansa na takie awanse już niedługo...proszę oczekiwać informacji, jeszcze w tym roku
+
+1 to ćwiczenie realnie poprawia umiejętności koordynacji wzrokowo-ruchowej i mocno aktywuje mózg oraz ośrodki zapamiętywania
+
+2 naprawdę poprawia umiejętności, niezbędne w lepszym graniu w szachy, szczególnie w tzw.kalkulacji, bo na wyższych poziomach szachiści pokonują limity 30 a czasem i 40 pól, jak są mistrzami
+
+3 jest to częścią zadań do zaliczenia by zdobyć odznaki i awansować na wyższe poziomy, a pierwsza szansa na takie awanse już niedługo...proszę oczekiwać informacji, jeszcze w tym roku
 
 Dlatego proszę uruchamiać tę zabawę dzieciom, tak by swobodnie robiły wynik pomiędzy 5-10 punktów za każdym razem a czeka nagroda dla PIERWSZEGO dziecka, z tej grupy, które przebije wynik 10 na zajęciach!!!
 
