@@ -55,7 +55,7 @@ Jak grać:
 * wyłączamy widok figur
 * włączamy opis pół
 
-![Pola](/uploads/Lichess_pola.jpg)
+![Pola](/uploads/lichess_pola.jpg)
 
 
 ### Każde dziecko zapisane na nasze zajęcia powinno mieć swoje konto na Lichess.org i trenować tam, także poza zajęciami, by osiągać dużo lepsze efekty!
