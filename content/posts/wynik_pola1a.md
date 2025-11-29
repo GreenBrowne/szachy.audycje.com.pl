@@ -42,11 +42,15 @@ Z trzechch powodów:
 * 3 jest to częścią zadań do zaliczenia by zdobyć odznaki i awansować na wyższe poziomy, a pierwsza szansa na takie awanse już niedługo...proszę oczekiwać informacji, jeszcze w tym roku
 
 Dlatego proszę uruchamiać tę zabawę dzieciom, tak by swobodnie robiły wynik pomiędzy 5-10 punktów za każdym razem a czeka nagroda dla PIERWSZEGO dziecka, z tej grupy, które przebije wynik 10 na zajęciach!!!
+
 [Lichess:szukaj pól](https://lichess.org/training/coordinate)
-ustawiamy czas na 30 sekund
-wybieramy widok dla białych
-wyłączamy widok figur
-włączamy opis pół
+
+Jak grać:
+*ustawiamy czas na 30 sekund
+*wybieramy widok dla białych
+*wyłączamy widok figur
+*włączamy opis pół
+
 ![Pola](/uploads/Lichess_pola.jpg)
 
 
