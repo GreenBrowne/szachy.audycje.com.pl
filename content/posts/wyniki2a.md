@@ -46,8 +46,6 @@ Gdyby tylko potrenowała w domu, to siałaby postrach na zajęciach w każdej ry
 Dlatego wszystkie dzieci są tutaj zwycięzcami!
 ![Fear](/uploads/win_fear.png)
 
-A przy okazji:
-"Chłopaki, najwyższy czas się brać do poważnego treningu...bo was dziewczynki bija ;)"
 
 Dlatego też daję Państu link do tego ćwiczenia i zachęcam do dawania dzieciom możliwości potrenowania, także na tygodniu, gdyż czekają ich kolejne, wyższe etapy w tej grze!
 
