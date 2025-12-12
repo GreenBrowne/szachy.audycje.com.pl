@@ -60,9 +60,26 @@ Niech starsi się juz boją jak Mikołaj zacznie trenować systematycznie w domu
 Jednak i jego koledzy nie byli wcale gorsi, bo WSZYSCY PRZEKROCZYLI maksymalny pułap 50%: 
 ![Max37](/uploads/Max37.jpg)
 ![Bruno35](/uploads/Bruno35.jpg)
+Niestety, nie wszystkie najlepsze wyniki każdego dziecka zdołałem utrwalić, bo była kolejka chętnych i niekiedy następne dziecko już zaczynało zabawę, zanim zdążyłem pobiec po aparat.
+A jednocześnie pilnowałem trzech mini konkursów równocześnie!
 
+Z trzeciego nie ma żadnych zdjęć, bo dzieci robiły go w pamieci, a tego jeszcze posiadany przez mnie aparat nie umie fotografować ;)
 
-Dlatego też daję Państu link do tego ćwiczenia i zachęcam do dawania dzieciom możliwości potrenowania, także na tygodniu, gdyż czekają ich kolejne, wyższe etapy w tej grze!
+W ramach realizacji:
+### 1 Jak możecie dużo więcej skorzystać z naszych zajęć
+
+Daję Państu link do jednego ćwiczenia i zachęcam do dawania dzieciom możliwości potrenowania, także na tygodniu, gdyż czekają ich kolejne, wyższe etapy w tej grze!
+
+Wejdź na: https://lichess.org/training/coordinate
+albo kliknij tutaj: [Lichess:szukaj pól](https://lichess.org/training/coordinate)
+
+Jak grać:
+* ustawiamy czas na 30 sekund
+* wybieramy widok dla białych
+* wyłączamy widok figur
+* włączamy opis pół
+
+![Pola](/uploads/lichess_pola.jpg)
 
 ### A dlaczego warto być lepszym w takiej zabawie?
 
@@ -75,17 +92,6 @@ Z trzech powodów:
 3 jest to częścią zadań do zaliczenia by zdobyć odznaki i awansować na wyższe poziomy, a pierwsza szansa na takie awanse już niedługo...proszę oczekiwać informacji, jeszcze w tym roku
 
 Dlatego proszę uruchamiać tę zabawę dzieciom, tak by swobodnie robiły wynik pomiędzy 5-10 punktów za każdym razem a czeka nagroda dla PIERWSZEGO dziecka, z tej grupy, które przebije wynik 10 na zajęciach!!!
-
-Wejdź na: https://lichess.org/training/coordinate
-albo kliknij tutaj: [Lichess:szukaj pól](https://lichess.org/training/coordinate)
-
-Jak grać:
-* ustawiamy czas na 30 sekund
-* wybieramy widok dla białych
-* wyłączamy widok figur
-* włączamy opis pół
-
-![Pola](/uploads/lichess_pola.jpg)
 
 
 ### Każde dziecko zapisane na nasze zajęcia powinno mieć swoje konto na Lichess.org i trenować tam, także poza zajęciami, by osiągać dużo lepsze efekty!
