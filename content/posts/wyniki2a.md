@@ -11,16 +11,36 @@ Staramy się to poprawić....
 
 Na kolejnym mini turnieju ze znajdowania pól szachowych na czas, wszystkie dzieci osiągnęły imponujące wyniki.
 
-###  Tutaj zwyciężczyni naszych zawodów Faustyna z imponującym wynikiem 8 odszukanych pól szachowych w 30 sekund!
-![Winner](/uploads/win_Faustyna.jpg)
-Dodajmy, że założony wynik do pobicia to było 5 i cała grupa go osiągnęła, a większość nawet lepszy.
+###  Tutaj zwyciężczyni naszych zawodów z rekordowym wynikiem 19 odszukanych pól szachowych w 30 sekund!
+![Pola19](/uploads/pola_19.jpg)
+###  Dodajmy, że założony maksymalny wynik do pobicia to było 15!
 
-### Gratulacje dla naszej szacho-polowej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
+### Gigantyczne gratulacje dla naszej szacho-polowej Mistrzyni, zarówno od trenera i całej Fundacji "Więcej Mądrości"!
 
-### Warto dodać, że na szczególną pochwałę zasłużył Wiktor, który pokonał swoją obawę, przed tym ćwiczeniem i zakończył ze wspaniałym wynikiem 7 zajmując drugie miejsce!
+Tego wyniku nie powstydzili by się żadni, znani mi, zawodnicy z IV kat szachową!
+### Ostatnio, zawodnik z III kat i medalista niedawnych zawodów szachowych, przy mnie na zajęciach zrobił maksymalnie ....21.
+Mam nadzieję, że to pokazuje jak wspaniały wynik osiągnęła.
+
+
+### Jednak to nie koniec jej sukcesów, wygrała także w kolejnym mini turnieju:
+![Skoczek59](/uploads/skoczek_rekord_59.jpg)
+To był znowu znakomity wynik, osiągany tylko przez zdolnych i często już utytułowanych zawodników.
+
+Przykładowo **taki sam wynik osiągnął wicemistrz Lublina szkół**, jak dałem mu to ćwiczenie.
+Oczywiście potem nie chciał przestać grać, aż nie osiągnął wyniku maksymalnego 64, ale to znowu pokazuje, że trening i upór to poza talentem jest klucz do skucesu.
+
+### Dlatego widzę u niej prawdziwy talent i przy włożonej dodatkowej pracy, można to przerobić w sukcesy sportowe na zawodach, ale nie wolno do tego zmuszać a  jedynie stwarzać możliwości ...
+
+### Znowu na pochwałę zasłużył Wiktor, który pokonał próg 10!  
 ![Wiktor](/uploads/Wiktor.png)
+A dodajmy, że jest to znowu maksymalny poziom założony dla jego grupy.
+Jestem pewnien, że jak potrenuje w domu to zacznie osiągać nawet 15, najpóźniej w te wakacje, czyli poziom grupy starszej ...
 
-Kolejni koledzy byli tuż za nim z wynikiem 6, więc dalsza rywallizacja zapewne będzie ostra w tej konkurencji...
+Inni byli tuż za nim, więc dalsza rywallizacja będzie ostra w tej konkurencji...
+
+### Jednak nie tylko Wiktor, w tej rodzinie ma talent szachowy, Emilka także umie wykręcić super wyniki!
+![siostra55](/uploads/siostra55.jpg)
+Gdyby tylko potrenowała w domu, to siałaby postrach na zajęciach w każdej rywalizacji i mogłaby grać na zawodach szkolnych wg mnie...
 
 ### Jednak PRAWDZIWE zwycięstwo jest wtedy, gdy dziecko pokonuje swoje lęki i słabości oraz poznaje, że może zrobić dzisiaj coś, czego by nie mogło ani nie umiało zrobić wczoraj! 
 Dlatego wszystkie dzieci są tutaj zwycięzcami!
