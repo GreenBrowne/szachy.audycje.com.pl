@@ -32,7 +32,7 @@ Oczywiście potem nie chciał przestać grać, aż nie osiągnął wyniku maksym
 ### Dlatego widzę u niej prawdziwy talent i przy włożonej dodatkowej pracy, można to przerobić w sukcesy sportowe na zawodach, ale nie wolno do tego zmuszać a  jedynie stwarzać możliwości ...
 
 ### Znowu na pochwałę zasłużył Wiktor, który pokonał próg 10!  
-![Wiktor10](/uploads/Wiktor_10.png)
+![Wiktor10](/uploads/Wiktor_10.jpg)
 A dodajmy, że jest to znowu maksymalny poziom założony dla jego grupy.
 Jestem pewnien, że jak potrenuje w domu to zacznie osiągać nawet 15, najpóźniej w te wakacje, czyli poziom grupy starszej ...
 
