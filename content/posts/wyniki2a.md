@@ -31,6 +31,15 @@ Oczywiście potem nie chciał przestać grać, aż nie osiągnął wyniku maksym
 
 ### Dlatego widzę u niej prawdziwy talent i przy włożonej dodatkowej pracy, można to przerobić w sukcesy sportowe na zawodach, ale nie wolno do tego zmuszać a  jedynie stwarzać możliwości ...
 
+Jednak za plecami czuje ona nieustannie oddech innych zdolnych dziecim, więc w każdej chwili, miejsca na podium mogą się zmieniać, przykładowo:
+![Pola17](/uploads/Pola17.jpg)
+![Pola16](/uploads/Pola16.jpg)
+
+### Jednak PRAWDZIWE zwycięstwo jest wtedy, gdy dziecko pokonuje swoje lęki i słabości oraz poznaje, że może zrobić dzisiaj coś, czego by nie mogło ani nie umiało zrobić wczoraj! 
+Dlatego wszystkie dzieci są tutaj zwycięzcami i o to własnie chodzi w naszych mini turniejach!
+![Fear](/uploads/win_fear.png)
+
+
 ### Znowu na pochwałę zasłużył Wiktor, który pokonał próg 10!  
 ![Wiktor10](/uploads/Wiktor_10.jpg)
 A dodajmy, że jest to znowu maksymalny poziom założony dla jego grupy.
@@ -42,9 +51,14 @@ Inni byli tuż za nim, więc dalsza rywallizacja będzie ostra w tej konkurencji
 ![siostra55](/uploads/siostra55.jpg)
 Gdyby tylko potrenowała w domu, to siałaby postrach na zajęciach w każdej rywalizacji i mogłaby grać na zawodach szkolnych wg mnie...
 
-### Jednak PRAWDZIWE zwycięstwo jest wtedy, gdy dziecko pokonuje swoje lęki i słabości oraz poznaje, że może zrobić dzisiaj coś, czego by nie mogło ani nie umiało zrobić wczoraj! 
-Dlatego wszystkie dzieci są tutaj zwycięzcami!
-![Fear](/uploads/win_fear.png)
+### Teraz kolej na następnego bohatera, Mikołaja:
+![Miko42](/uploads/Miko42.jpg)
+Fantastyczny wynik plasujący go PONAD maksymalną założona wartością 50% dla jego grupy i lokujący go pomiędzy starszymi dziećmi! 
+Niech starsi się juz boją jak Mikołaj zacznie trenować systematycznie w domu...
+
+Jednak i jego koledzy nie byli wcale gorsi, bo WSZYSCY PRZEKROCZYLI maksymalny pułap: 
+![Max37](/uploads/Max37.jpg)
+![Bruno35](/uploads/Bruno35.jpg)
 
 
 Dlatego też daję Państu link do tego ćwiczenia i zachęcam do dawania dzieciom możliwości potrenowania, także na tygodniu, gdyż czekają ich kolejne, wyższe etapy w tej grze!
