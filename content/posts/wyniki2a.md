@@ -29,9 +29,10 @@ To był znowu znakomity wynik, osiągany tylko przez zdolnych i często już uty
 Przykładowo **taki sam wynik osiągnął wicemistrz Lublina szkół**, jak dałem mu to ćwiczenie.
 Oczywiście potem nie chciał przestać grać, aż nie osiągnął wyniku maksymalnego 64, ale to znowu pokazuje, że trening i upór to poza talentem jest klucz do skucesu.
 
-### Dlatego widzę u niej prawdziwy talent i przy włożonej dodatkowej pracy, można to przerobić w sukcesy sportowe na zawodach, ale nie wolno do tego zmuszać a  jedynie stwarzać możliwości ...
+### Dlatego widzę u niej prawdziwy talent i przy włożonej dodatkowej pracy, można to przerobić w sukcesy sportowe na zawodach, 
+ale nie wolno do tego zmuszać a  jedynie stwarzać możliwości ...
 
-Jednak za plecami czuje ona nieustannie oddech innych zdolnych dziecim, więc w każdej chwili, miejsca na podium mogą się zmieniać, przykładowo:
+Jednak za plecami czuje ona nieustannie oddech innych zdolnych dzieci, więc w każdej chwili, miejsca na podium mogą się zmieniać, przykładowo:
 ![Pola17](/uploads/Pola17.jpg)
 ![Pola16](/uploads/Pola16.jpg)
 
@@ -56,7 +57,7 @@ Gdyby tylko potrenowała w domu, to siałaby postrach na zajęciach w każdej ry
 Fantastyczny wynik plasujący go PONAD maksymalną założona wartością 50% dla jego grupy i lokujący go pomiędzy starszymi dziećmi! 
 Niech starsi się juz boją jak Mikołaj zacznie trenować systematycznie w domu...
 
-Jednak i jego koledzy nie byli wcale gorsi, bo WSZYSCY PRZEKROCZYLI maksymalny pułap: 
+Jednak i jego koledzy nie byli wcale gorsi, bo WSZYSCY PRZEKROCZYLI maksymalny pułap 50%: 
 ![Max37](/uploads/Max37.jpg)
 ![Bruno35](/uploads/Bruno35.jpg)
 
