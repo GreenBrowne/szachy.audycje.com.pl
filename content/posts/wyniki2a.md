@@ -1,6 +1,6 @@
 ---
 title: "Kolejne zawody szachowe roku szkolnego 2025/2026"
-date: 2025-12-25
+date: 2025-12-12
 ---
 ### W związku z szybko mijającymi, kolejnymi zajęciami, ciągle podnosimy poprzeczkę i poziom emocji...
 Dlatego przeprowadziliśmy kolejne mini zawody, z naszych zabaw szachowych, które trenujemy podczas zajęć.
